@@ -16,7 +16,7 @@
 
 <style>
     h1 {
-        color: blue;
+        color: rgb(0, 166, 255);
     }
 
     img {
